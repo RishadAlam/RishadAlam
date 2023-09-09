@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [https://github.com/RishadAlam](https://github.com/RishadAlam)
 
-- 🌱 I’m currently learning **PHP, Laravel**
+- 🌱 I’m currently learning **Typescript, Nextjs**
 
 - 👯 I’m looking to collaborate on [https://github.com/RishadAlam](https://github.com/RishadAlam)
 
@@ -19,7 +19,7 @@
 
 - 📝 I regularly write articles on [https://github.com/RishadAlam](https://github.com/RishadAlam)
 
-- 💬 Ask me about **Website Design**
+- 💬 Feel free to ask me about **Frontend & Backend related any questions**
 
 - 📫 How to reach me **sazzadullalamrishad@gmail.com**
 
