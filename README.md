@@ -11,29 +11,17 @@
 
 - 🌱 I’m currently learning **TypeScript, Next.js**
 
-- 👯 I’m looking to collaborate on [https://github.com/RishadAlam](https://github.com/RishadAlam)
-
-- 🤝 I’m looking for help with [https://github.com/RishadAlam](https://github.com/RishadAlam)
-
-- 👨‍💻 All of my projects are available at [https://github.com/RishadAlam](https://github.com/RishadAlam)
-
-- 📝 I regularly write articles on [https://github.com/RishadAlam](https://github.com/RishadAlam)
-
 - 💬 Feel free to ask me about **Frontend & Backend related any question**
 
 - 📫 How to reach me **sazzadullalamrishad@gmail.com**
-
-- 📄 Know about my experiences [https://github.com/RishadAlam](https://github.com/RishadAlam)
 
 - ⚡ Fun fact **I think fun is a name of happiness**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/rishadalam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="rishadalam" height="30" width="40" /></a>
 <a href="https://twitter.com/compocerrishad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="compocerrishad" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rishad-alam-81a903228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishad-alam-81a903228/" height="30" width="40" /></a>
 <a href="https://fb.com/rishadalammusical" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rishadalammusical" height="30" width="40" /></a>
-<a href="https://instagram.com/rishadalam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishadalam" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
