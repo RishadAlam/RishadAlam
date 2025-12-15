@@ -1,34 +1,69 @@
-<h1 align="center">Hi 👋, I'm Rishad Alam</h1>
-<h3 align="center">A passionate frontend & backend developer from Bangladesh</h3>
+# 👋 Hi, I'm Rishad Alam
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishadalam&label=Profile%20views&color=0e75b6&style=flat" alt="rishadalam" /> </p>
+### Software Engineer | WordPress Plugin Developer | Web Development Enthusiast  
+🔭 Currently working at **Bit Apps**, focusing on building powerful WordPress plugins like [**Bit Integrations**](https://wordpress.org/plugins/bit-integrations/) and [**Bit Flows**](https://wordpress.org/plugins/bit-pi/).
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishadalam" alt="rishadalam" /></a> </p>
+---
 
-<p align="left"> <a href="https://twitter.com/compocerrishad" target="blank"><img src="https://img.shields.io/twitter/follow/compocerrishad?logo=twitter&style=for-the-badge" alt="compocerrishad" /></a> </p>
+### 🚀 About Me
 
-- 🔭 I’m currently working on [https://github.com/RishadAlam](https://github.com/RishadAlam)
+I'm a passionate **Software Engineer** with a strong background in **Web Development**. My current work revolves around WordPress plugin development, where I’m enhancing integration and workflow optimization tools for businesses and developers alike.
 
-- 🌱 I’m currently learning **TypeScript, Next.js**
+- **Languages & Frameworks**: React, TypeScript, Laravel, JavaScript, PHP  
+- **Tools & Technologies**: WordPress, Git, Docker, RESTful APIs, and more  
+- 🌱 I'm actively learning more about **TypeScript** and **Next.js** to build better and faster applications.
 
-- 💬 Feel free to ask me about **Frontend & Backend related any question**
+---
 
-- 📫 How to reach me **sazzadullalamrishad@gmail.com**
+### 🔨 Key Projects
 
-- ⚡ Fun fact **I think fun is a name of happiness**
+Here are some of the projects I’m actively working on:
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/compocerrishad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="compocerrishad" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rishad-alam-81a903228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishad-alam-81a903228/" height="30" width="40" /></a>
-<a href="https://fb.com/rishadalammusical" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rishadalammusical" height="30" width="40" /></a>
-</p>
+- **[Bit Integrations](https://github.com/Bit-Apps-Pro/bit-integrations)**: A powerful WordPress plugin for seamless CRM and third-party app integrations.
+- **[NGO Laravel Backend API](https://github.com/RishadAlam/NGO-Laravel-Backend-API)**: A full-featured API designed for NGOs to manage their resources and data efficiently.
+- **[NGO React Frontend](https://github.com/RishadAlam/NGO-React-Frontend)**: The frontend of the NGO project, built with React, providing a clean and responsive UI for managing NGO operations.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishadalam&show_icons=true&locale=en&layout=compact" alt="rishadalam" /></p>
+### 🛠 Technologies & Tools
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishadalam&show_icons=true&locale=en" alt="rishadalam" /></p>
+Here’s a quick snapshot of the technologies I work with:
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishadalam&" alt="rishadalam" /></p>
+#### **Frontend:**
+- 🖥️ **React** | **JavaScript** | **TypeScript** | **HTML5** | **CSS3** | **Sass** | **Bootstrap**  
+#### **Backend:**
+- 🧑‍💻 **Laravel** | **Node.js** | **PHP**  
+#### **Others:**
+- 🔌 **WordPress Plugin Development** | **REST APIs** | **Git** | **Docker**
+
+---
+
+### 📊 GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=rishadalam&show_icons=true&locale=en&layout=compact)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishadalam&show_icons=true&locale=en)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rishadalam&)
+
+---
+
+### 🌍 Connect With Me
+
+Let's collaborate, share ideas, and build something amazing together! You can find me on the following platforms:
+
+[![Twitter](https://img.shields.io/twitter/follow/compocerrishad?logo=twitter&style=for-the-badge)](https://twitter.com/compocerrishad)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/rishad-alam-81a903228/)  
+[![Facebook](https://img.shields.io/badge/Facebook-Profile-blue?logo=facebook&style=for-the-badge)](https://fb.com/rishadalammusical)  
+
+---
+
+### 📩 Get in Touch
+
+Feel free to reach out via **[sazzadullalamrishad@gmail.com](mailto:sazzadullalamrishad@gmail.com)** for any inquiries, collaborations, or just to chat about tech!
+
+---
+
+### ⚡ Fun Fact
+
+I believe that **fun** is the essence of happiness and strive to bring joy and enthusiasm to everything I build and learn.
