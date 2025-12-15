@@ -57,7 +57,7 @@ Here are some of the projects I’m actively working on:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishadalam&show_icons=true&locale=en&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rishadalam&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rishadalam&theme=tokyonight)
 
 ---
 
@@ -80,4 +80,5 @@ Feel free to reach out via **[sazzadullalamrishad@gmail.com](mailto:sazzadullala
 ### ⚡ Fun Fact
 
 I believe that **fun** is the essence of happiness and strive to bring joy and enthusiasm to everything I build and learn.  
-![Happiness](https://img.shields.io/badge/Happiness-:-D-yellow?logo=smile&logoColor=yellow)
+![Happiness](https://img.shields.io/badge/Happiness-%F0%9F%98%81-yellow?style=for-the-badge)
+
